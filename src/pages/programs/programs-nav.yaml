@@ -171,8 +171,8 @@
       path: /programs/gitlab-integration.html
     - title: HackEDU
       path: /programs/hackedu-integration.html
-    - title: IBM Resilient
-      path: /programs/ibm-resilient.html
+    - title: IBM Security SOAR
+      path: /programs/ibm-security-soar.html
     - title: Jira
       path: /programs/jira-integration.html
       items:
@@ -237,6 +237,8 @@
           path: /programs/explore.html
     - title: Audit Logs
       path: /programs/audit-logs.html
+    - title: Industry Benchmarking
+      path: /programs/industry-benchmarking.html
 - title: Hacker Engagement
   items:
     - title: Hacktivity
@@ -288,6 +290,8 @@
       path: /programs/import-vulnerabilities.html
     - title: IP Allowlists
       path: /programs/ip-allowlists.html
+    - title: Multi-Party Coordination
+      path: /programs/multi-party-coordination.html
     - title: Password Best Practices
       path: /programs/passwords.html
     - title: Proof of Compliance

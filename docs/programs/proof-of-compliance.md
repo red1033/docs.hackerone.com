@@ -11,10 +11,10 @@ These are some of the security standards that can be met with the statement of a
 * [FedRamp](https://www.fedramp.gov/)
 * [UK IoT Code of Practice](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security)
 
-If you’re a federal program that needs to comply with CISA BOD 20-21, you can choose to download the Program performance per asset CSV file and input the data into CyberScope.
+If you’re a federal program that needs to comply with CISA BOD 20-01, you can choose to download the Program performance per asset CSV file and input the data into CyberScope.
 
 To generate your proof of compliance report:
-1. Navigate to **Program Settings > Program > Customization > Proof of Compliance**.
+1. Navigate to **Program Settings > Program > Reports > Proof of Compliance**.
 2. Select the dates that you would like the report to reflect.
 3. Select the documents you want to include in the report. You can choose from:
 
