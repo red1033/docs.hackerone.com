@@ -32,7 +32,7 @@ The Directory enables Hackers to:
 
 The Directory enables programs to:
 * Publish contact information for receiving information about potential vulnerabilities in their products or online services, such as a security@ email address or a HackerOne program (See [ISO 29147](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170) for additional guidance or [contact HackerOne](mailto:support@hackerone.com))
-* [Search](https://hackerone.com/directory) for their organization to ensure that their security team's contact information and disclosure policy is accurate (See [Claiming the Security Page](/programs/security-page.html) if the program page hasn’t been claimed for editing)
+* [Search](https://hackerone.com/directory) for their organization to ensure that their security team's contact information and disclosure policy is accurate (See [Claiming the Security Page](/organizations/security-page.html) if the program page hasn’t been claimed for editing)
 
 ### What's on the Directory
 You can find this information associated with an organization on the directory:
@@ -46,7 +46,7 @@ Bounties average | The average bounty that is given for a valid vulnerability in
 Star Icon<br>![star icon](./images/better-directory-4.png) | Bookmark your favorite programs by clicking on the icon. A list of your bookmarked programs will show on your [Hacker Dashboard](/hackers/hacker-dashboard.html) under the **Bookmarked Programs** tab.
 Managed label<br>![managed icon](./images/better-directory-2.png) | Shows that the program is managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
 Not Accepting Submissions label<br>![not accepting submissions icon](./images/better-directory-3.png) | Shows that the program isn’t currently accepting any report submissions on HackerOne.
-Bounty splitting label| Shows that the program enables hackers to collaborate with others and split their bounty in finding and submitting a vulnerability.
+Collaboration label| Shows that the program enables hackers to collaborate with others and split their bounty in finding and submitting a vulnerability.
 Retesting label | Shows that the program participates in [retesting](/hackers/retesting.html).
 
 ### Directory Filters
@@ -58,7 +58,7 @@ Filter | Details
 ------ | ------
 IBB | Indicates Internet Bug Bounty - a bug bounty program for core internet infrastructure and free open source software. These programs are managed by a panel of volunteers selected from the security community. Learn more [here](https://www.hackerone.com/internet-bug-bounty).
 Offers bounties | Programs that offer bounties as rewards for finding vulnerabilities.
-High response efficiency | Programs that meet their [response target metrics](/programs/response-target-metrics.html) at least 80% of the time.
+High response efficiency | Programs that meet their [response target metrics](/organizations/response-target-metrics.html) at least 80% of the time.
 Managed by HackerOne| Programs managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
 Offers retesting | Programs that can request hackers to [retest](/hackers/retesting.html) vulnerabilities.
 Active Program | Programs that are currently accepting report submissions.

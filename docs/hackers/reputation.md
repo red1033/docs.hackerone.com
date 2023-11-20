@@ -17,7 +17,7 @@ A Hacker profile starts with a reputation of 100. Reports gain or lose reputatio
 
 Report State | Reputation
 ------------ | ------------
-Triaged or Resolved | +7 <br><br><i>The +7 reputation will be deducted if the report is closed with a state other than Resolved.</i></b>
+Triaged or Resolved | +7 <br><br><i>The +7 reputation will be deducted if the report is closed with a state other than Resolved or if the bug is reopened.</i></b>
 Duplicate of a resolved report submitted prior to the report being made public | +2
 The original report is resolved before the duplicate was filed | 0
 Informative | 0
@@ -51,6 +51,10 @@ Reputation | Details
 Keep in mind that the first 10 bounties of a program will be rewarded the BOUNTY_LOW reputation. After 10 bounties have been paid out, a hacker’s reputation will be recalculated based on the standard deviation of the program’s mean bounty.
 
 ><i><b>Note:</b> We don't award reputation when rewarded with a bonus and not a bounty.</i>
+
+### Effects of Collaboration on Reputation
+* Collaborators will receive full reputation for report state changes (e.g. validity of the report). Reference Effects of Report State on Reputation above.
+* For bounties, collaborators will receive appropriate reputation based on their share of the bounty. Reference Effects of Bounties on Reputation above.
 
 ### Effects of Retesting on Reputation
 If you participate in [retesting](retesting.html) a report, you'll receive +2 to your reputation.

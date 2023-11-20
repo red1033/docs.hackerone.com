@@ -14,8 +14,6 @@ If you’ve submitted a valid vulnerability for a report, the program can reques
 
 If you’re invited to retest the vulnerability, you’ll receive a notification in your email to retest the report.
 
-![retest hacker invitation email](./images/retest-invitation-email.png)
-
 To participate in the retest:
 
 1. Click **View retest** in your notification email.
@@ -23,8 +21,6 @@ To participate in the retest:
 3. Submit your findings in the **Retest findings** form at the bottom of the report. The form consists of these fields:
      * Are you able to reproduce the vulnerability report?
      * Please provide us with a short summary of how you retested the vulnerability and upload any attachments of your validations.
-
-![retest form](./images/retest-findings-form.png)
 
 4. Click **Submit**.
 
@@ -38,8 +34,6 @@ Action | Scenario | Details
 **Reject** the retest | You say the vulnerability is not fixed. | The program will provide you with a summary explaining why they’ve rejected the retest. The program can choose to request another retest for the report. <br><br>The status of the report will be changed to *Triaged*.
 
 ### Claiming Retest Opportunities
-If you’re not the original hacker, and the original hacker of the report chooses to reject the retest, you and other hackers can claim the retesting opportunities depending on your retesting rights.
-
 If the program is:
 
 Program Type | Details
@@ -49,7 +43,7 @@ Public | You’ll be able to claim retests for programs where you submitted at l
 
 To claim a retest:
 1. Go to **Hacker Dashboard > Retesting**.
-2. Click **Claim retest** for the retest you’re interested in. Keep in mind that you can only claim and work on 1 retest at a time. Upon claiming a retest, you’ll have 24 hours to complete the retest.
+2. Click **Claim retest** for the retest you’re interested in. Keep in mind that you can only claim and work on 1 retest at a time. 
 3. View steps 3 and 4 in the section above to complete the retest.
 
 ### Managing and Viewing Retests
